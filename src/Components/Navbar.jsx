@@ -3,30 +3,30 @@ import { NavLink } from 'react-router';
 const Navbar = () => {
     const links = (
         <>
-          <li className='text-lg hover:text-blue-800 transition'>
-            <NavLink to="/" className=  {({ isActive }) => (isActive ? 'text-blue-600 transition' :'' )}>
+          <li className='text-lg  hover:text-blue-800 transition'>
+            <NavLink to="/" className=  {({ isActive }) => (isActive ? 'text-blue-600 transition border-b-3' :'' )}>
               Home
             </NavLink>
           </li>
           <li className='text-lg hover:text-blue-800 transition'>
-            <NavLink to="/booking" className=  {({ isActive }) => (isActive ? 'text-blue-600 transition' :'' )}>
+            <NavLink to="/booking" className=  {({ isActive }) => (isActive ? 'text-blue-600 transition border-b-3' :'' )}>
               Booking
             </NavLink>
           </li>
           <li className='text-lg hover:text-blue-800 transition'>
-            <NavLink to="/Blogs" className=  {({ isActive }) => (isActive ? 'text-blue-600 transition' :'' )}>
+            <NavLink to="/Blogs" className=  {({ isActive }) => (isActive ? 'text-blue-600 transition border-b-3'  :'' )}>
                 Blogs
             </NavLink>
           </li>
           <li className='text-lg hover:text-blue-800 transition'>
-            <NavLink to="/Contact" className=  {({ isActive }) => (isActive ? 'text-blue-600 transition' :'' )}>
+            <NavLink to="/Contact" className=  {({ isActive }) => (isActive ? 'text-blue-600 transition border-b-3' :'' )}>
                 Contact
             </NavLink>
           </li>
         </>
       );
     return (
-<div className="navbar bg-gray-100 mx-auto   px-8 md:px-12 lg:px-16 xl:px-24">
+<div className="navbar bg-gray-50 mx-w-6xl  px-8 md:px-12 lg:px-16 xl:px-24">
       {/* Navbar Start: Logo and Name */}
       <div className="navbar-start">
         <div className="dropdown">

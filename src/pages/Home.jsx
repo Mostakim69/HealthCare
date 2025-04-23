@@ -2,17 +2,17 @@ import React from 'react';
 import Banner from '../Components/Banner';
 import Container from '../Components/Container';
 import { useLoaderData } from 'react-router';
+import CardSection from '../Components/CardSection';
 
 const Home = () => {
-    // data
-    const data = useLoaderData()
-    console.log(data)
-    return (
-        <div>
-            <Banner/>
-            <Container Container={data}/>
-        </div>
-    );
+  const data = useLoaderData();
+  return (
+    <>
+      <Banner />
+      <Container Container={data} />
+      <CardSection />
+    </>
+  );
 };
 
 export default Home;

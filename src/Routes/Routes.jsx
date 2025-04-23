@@ -8,31 +8,30 @@ import Details from "../pages/Details";
 import ErrorPage from "../pages/ErrorPage";
 
 export const router = createBrowserRouter([
-    {
-      path: "/",
-      Component: MainLayouts,
-      errorElement: <ErrorPage/>,
-      children: [
-        {
-            path: "/",
-            element: <Home/>,
-            hydrateFallbackElement: <p>Loading , please wait ... </p> , 
-            loader : () => fetch('../doctor.json'),
-        },
-        {
-          path: "/Booking",
-          Component: Booking,
-        },
-        {
-          path: "/Blogs",
-          element: <Blogs/>,
-        },
-        {
-            path: "/doctor-details/:id",
-            element: <Details/>,
-            loader : () => fetch('../doctor.json'),
-
-          }
-      ]
-    },
-  ]);
+  {
+    path: "/",
+    Component: MainLayouts,
+    errorElement: <ErrorPage />,
+    children: [
+      {
+        path: "/",
+        element: <Home />,
+        hydrateFallbackElement: <p>Loading , please wait ... </p>,
+        loader: () => fetch('../doctor.json'),
+      },
+      {
+        path: "/Booking",
+        Component: Booking,
+      },
+      {
+        path: "/Blogs",
+        element: <Blogs />,
+      },
+      {
+        path: "/doctor-details/:id",
+        element: <Details />,
+        loader: () => fetch('../doctor.json'),
+      },
+    ],
+  },
+]);
