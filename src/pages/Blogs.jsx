@@ -3,7 +3,6 @@ import React, { useEffect, useState } from 'react';
 const Blogs = () => {
   const [blogs, setBlogs] = useState([]);
 
-  // Fetch blog data on mount
   useEffect(() => {
     fetch('/blogs.json')
       .then((res) => res.json())

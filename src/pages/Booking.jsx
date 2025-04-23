@@ -40,18 +40,17 @@ const Booking = () => {
     );
   };
 
-  // Define a variety of distinct colors for the bars
   const colors = [
-    '#FF6F61', // Coral
-    '#6B5B95', // Purple
-    '#88B04B', // Green
-    '#F7CAC9', // Pink
-    '#92A8D1', // Blue
-    '#FFA07A', // Light Salmon
-    '#98FF98', // Mint Green
-    '#DDA0DD', // Plum
-    '#FFD700', // Gold
-    '#00CED1', // Dark Turquoise
+    '#FF6F61', 
+    '#6B5B95', 
+    '#88B04B', 
+    '#F7CAC9', 
+    '#92A8D1', 
+    '#FFA07A', 
+    '#98FF98', 
+    '#DDA0DD', 
+    '#FFD700', 
+    '#00CED1', 
   ];
 
   return (

@@ -27,7 +27,6 @@ const Navbar = () => {
       );
     return (
 <div className="navbar bg-gray-50 mx-w-6xl  px-8 md:px-12 lg:px-16 xl:px-24">
-      {/* Navbar Start: Logo and Name */}
       <div className="navbar-start">
         <div className="dropdown">
           <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -59,12 +58,10 @@ const Navbar = () => {
         </NavLink>
       </div>
 
-      {/* Navbar Center: Navigation Menus */}
       <div className="navbar-center hidden lg:flex">
         <ul className="menu menu-horizontal px-1">{links}</ul>
       </div>
 
-      {/* Navbar End: Emergency Button */}
       <div className="navbar-end">
         <NavLink to="/emergency" className="btn btn-primary">
         Primary
