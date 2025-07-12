@@ -121,9 +121,8 @@ bun run dev  # or npm run dev
 
 ## 👏 Credits
 
-- Design inspired by classic cooking & recipe books
+- Design inspired by Health care
 - Icons via Lucide and Heroicons
-- Lottie animations from LottieFiles
 
 ---
 
