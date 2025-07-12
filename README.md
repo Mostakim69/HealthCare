@@ -34,7 +34,6 @@ Here's a high-level overview of the project's file structure:
 │   ├── hooks/            # Custom React hooks
 │   ├── Layout/           # Route layouts
 │   ├── modules/          # Domain-based modules
-│   │   ├── auth/         # Authentication
 │   │   ├── blogs/        # Blog system
 │   │
 │   ├── pages/            # Page components
