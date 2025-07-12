@@ -53,11 +53,6 @@ Here's a high-level overview of the project's file structure:
 
 ## 🧭 Routing Structure (with Layouts)
 
-### 🔐 Auth Layout
-
-- `/login` → `Login.jsx`
-- `/register` → `Register.jsx`
-- `/forgot-password` → `ForgotPassword.jsx`
 
 ### 🏠 Main Layout (Landing Pages)
 
