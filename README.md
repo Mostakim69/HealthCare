@@ -82,7 +82,6 @@ Here's a high-level overview of the project's file structure:
 ### ✅ Authentication
 
 - Firebase Auth integration
-- Login, Register, Forgot Password
 - Auth-protected routes
 
 
