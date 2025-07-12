@@ -11,7 +11,7 @@ Welcome to **Health Care**,🏥 Medical Appointment Booking Application Build A 
 | **Portfolio GitHub**   | [Md Mostakim Hosen-portfolio](https://github.com/Mostakim69/My-Portfolio-Website)         |
 | **Portfolio Live**     | [Firebase-live](https://my-portfolio-website-9ba5f.web.app/)                         |
 | **Created On**         | 20 May 2025, 10:32 AM GMT+6                                                        |
-| **Location**           | Mohanpur, Rajshahi, Bangladesh                                              |
+| **Location**           | Rajshahi, Bangladesh                                              |
 
 ## 🌐 Live Site
 
