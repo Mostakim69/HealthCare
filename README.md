@@ -146,7 +146,6 @@ Made with ❤️ for food enthusiasts and aspiring chefs.
 ### 🔐 Authentication & Security
 
 - **Email/Password Login**: Secure user authentication via Firebase.
-- **Google Sign-In**: Quick access using Google accounts.
 - **Protected Routes**: Restricts access to sensitive pages like profile and recipe details.
 - **Password Reset**: Users can reset passwords through email verification.
 
