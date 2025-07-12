@@ -8,7 +8,7 @@ Welcome to **HobbyHub**,HobbyHub is a community-driven web platform that allows 
 | Detail                 | Information                                                                        |
 | ---------------------- | ---------------------------------------------------------------------------------- |
 | **GitHub Client site** | [HobbyHub-client](https://github.com/Mostakim69/HobbyHub)         |
-| **Live Site client**   | [HobbyHub-firebase](https://happy-family-4d585.web.app/)                              |
+| **Live Site client**   | [Health Care-firebase](https://peaceful-sunflower-7c0320.netlify.app/)                              |
 | **GitHub server site** | [HobbyHub-server](https://github.com/Mostakim69/HobbyHub-server)         |
 | **Portfolio GitHub**   | [Md Mostakim Hosen-portfolio](https://github.com/Mostakim69/My-Portfolio-Website)         |
 | **Portfolio Live**     | [Firebase-live](https://my-portfolio-website-9ba5f.web.app/)                         |
