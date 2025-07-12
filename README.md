@@ -149,9 +149,6 @@ Made with ❤️ for food enthusiasts and aspiring chefs.
 
 ### 👤 User Profile
 
-- **Profile Page**: View and edit user information, including display name and photo.
-- **Update Profile**: Modify personal details securely.
-
 ### 📄 Additional Pages
 
 - **About**: Learn more about FlavorBook.
