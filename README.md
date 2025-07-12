@@ -100,7 +100,6 @@ Here's a high-level overview of the project's file structure:
 - **Routing**: React Router&#x20;
 - **Forms**: React Hook Form, React Day Picker
 - **State Management**: React Context API (AuthProvider)
-- **Animations**: Lottie
 - **Toast Notifications**: React Hot Toast
 - **Deployment**: GitHub Pages / Vercel / Netlify (configure as needed)
 - **Build Tool**: Vite
