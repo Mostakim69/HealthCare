@@ -139,12 +139,6 @@ Made with ❤️ for food enthusiasts and aspiring chefs.
 ----- preivous version ------
 ---
 
----
-
-## 🚀 Features
-
-### 🔐 Authentication & Security
-
 
 
 ### 👤 User Profile
